@@ -19,7 +19,7 @@ Key Features
 🎨 Modern UI – Clean and responsive interface built with Tailwind CSS and shadcn/ui.
 
 
-Technology Stack
+      Technology Stack
 
 
 Frontend: React.js, TypeScript, Vite
@@ -40,12 +40,12 @@ Charts: Recharts
 
 Icons: Lucide React
 
-Project Purpose
+       Project Purpose
 
 
 The main goal of CompassLK is to provide travelers with a centralized platform for discovering destinations and planning trips while demonstrating the practical use of modern frontend technologies, cloud-based services, interactive maps, and responsive UI development.
 
-Future Improvements
+        Future Improvements
 
 Personalized travel recommendations
 
